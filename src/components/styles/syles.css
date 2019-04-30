@@ -1,0 +1,81 @@
+.current-link {
+    color: black !important;
+}
+body {
+    background-color: white;
+}
+.project {
+    font-size: 22px;
+}
+.p-title {
+    font-weight: bold;
+    font-size: 26px;
+}
+.margin-help {
+    padding-left: 30px;
+    padding-right: 30px;
+}
+.project-head {
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 15px;
+}
+.edit {
+    width: 30px;
+}
+.plus {
+    width: 26px;
+}
+.tools {
+    float: right;
+    margin-top: -2px;
+}
+.card-body-height {
+    height: 650px !important;
+    background-color: #F4F4F9;
+}
+.spacing {
+    padding-top: 20px;
+}
+.list-item {
+    padding-left: 20px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    background-color: #F7F7F7;
+    border-radius: 20px;
+    box-shadow: 0px 4px 6px 3px rgba(0, 0, 0, 0.09);
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+.list-title {
+    font-size: 20px;
+    font-weight: bold;
+}
+.list-date {
+    padding-top: 8px;
+    padding-left: 12px;
+}
+.date {
+    font-size: 12px;
+    font-style: italic;
+}
+.created {
+    font-size: 12px;
+    font-style: italic;
+    padding-left: 90px;
+}
+.pointer {
+    cursor: pointer;
+}
+.sub-descrip {
+    font-size: 20px;
+}
+.nav-text {
+    color: #f0f8ff !important;
+}
+.underline {
+    border-bottom: solid 2px #124559;
+    margin-bottom: 15px;
+}
+
+
